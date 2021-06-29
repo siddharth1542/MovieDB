@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie DB!</string>
+    <string name="choose_a_movie_for_today">Choose a Movie for Today !</string>
+</resources>
